@@ -1,1 +1,1 @@
-<h1><strong></strong>Code for different typr of document loaders in LangChain <strong></strong> </h1>
+<h2><strong></strong>  Code for different type of document loaders in LangChain <strong></strong> </h2>
